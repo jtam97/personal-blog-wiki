@@ -15,3 +15,4 @@ Linear combination -> Linear independence vs dependence
 Linear transformations means gridlines must be evenly spaced and parallel to be linear
 
 A linear transformation of a vector can be described by the basis vectors using a*i + b*j. Interestingly, if the basis gets transformed, you can use the new coordinates of i and j to calculate the linear transformation of a vector.
+
