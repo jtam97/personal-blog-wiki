@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Fractal Arcade Wiki",
+    pageTitle: "Justin Z Tam - Blog",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: 'plausible'
     },
-    baseUrl: "fractalarcade.justinztam.com",
+    baseUrl: "blog.justinztam.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: true,
